@@ -1,0 +1,47 @@
+.appcont{
+  display: flex;
+  
+
+}
+
+.main{
+  display: block;
+  width: 100%;
+}
+
+.sidebar{
+  min-height: 700px;
+}
+.footer{
+  margin  : 20px;
+}
+.formc{
+  max-width: 500px;
+  
+  margin: auto;
+}
+
+.postlist{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  
+}
+
+.postview{
+  padding: 10px;
+  max-width: 100%;
+
+}
+
+.tagscont{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.tags{
+  margin: 5px;
+}
+.items{
+  vertical-align: middle;
+}
